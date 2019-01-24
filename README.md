@@ -1,0 +1,2 @@
+# EssentialLegalzoomEventDocumentManagment
+Serverless Image compression 
